@@ -1,0 +1,12 @@
+# Latihan_1
+![Alt Text](https://github.com/bayuswara/PBO_2/blob/master/Latihan_1.png)
+# Latihan_2
+![Alt Text](https://github.com/bayuswara/PBO_2/blob/master/Latihan_2.png)
+# Latihan_3
+![Alt Text](https://github.com/bayuswara/PBO_2/blob/master/Latihan_3.png)
+# Latihan_4
+![Alt Text](https://github.com/bayuswara/PBO_2/blob/master/Latihan_4.png)
+# Latihan_5
+![Alt Text](https://github.com/bayuswara/PBO_2/blob/master/Latihan_5.png)
+# Latihan_6
+![Alt Text](https://github.com/bayuswara/PBO_2/blob/master/Latihan_6.png)
